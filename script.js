@@ -16,7 +16,7 @@ const loader=document.querySelector("#loader");
 
  const err=document.querySelector(".error");
 err.style.display="none";
-err.style.backgroundColor="blueviolet";
+err.style.backgroundColor="gray";
 err.style.height="40px";
 err.style.textAlign="center";
 err.style.fontSize="20px";
